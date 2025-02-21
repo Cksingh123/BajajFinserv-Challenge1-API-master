@@ -1,5 +1,12 @@
 # Bajaj Finserv Health Challenge - Backend
 
+Name: Chiranjeev Kumar Singh
+College Email ID: 22BCS16361@cuchd.in
+College Roll Number: 22BCS16361
+Personal Email : chiranjeevkumarsingh56@gmail.com
+
+
+
 ## Overview
 
 This is the backend API for the Bajaj Finserv Health Challenge. The API is built with Express and provides endpoints for processing JSON data and returning the results.
